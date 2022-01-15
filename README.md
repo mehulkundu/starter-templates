@@ -12,3 +12,5 @@ Clone the repo or fork them, do whatever fits your work flow. If you got any iss
 Next.js + Tailwind CSS = [https://github.com/mehulkundu/next-js-tailwind](https://github.com/mehulkundu/next-js-tailwind)
 
 Next.js + TypeScript + Tailwind CSS = [https://github.com/mehulkundu/next-ts-tailwind](https://github.com/mehulkundu/next-ts-tailwind)
+
+Next.js + Tailwind CSS + PWA = [https://github.com/mehulkundu/next-js-tailwind-pwa](https://github.com/mehulkundu/next-js-tailwind-pwa)
